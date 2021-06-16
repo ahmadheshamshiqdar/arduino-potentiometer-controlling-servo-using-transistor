@@ -25,3 +25,6 @@ void loop()
   myservo.write(val);                  // sets the servo position according to the input from the potentiometer 
   delay(15);                           // waits 15ms for the servo to get to set position  
 } 
+ 
+ 
+ the link :- https://www.tinkercad.com/things/laku4H4CDMD-start-simulating/editel?lessonid=EHD2303J3YPUS5Z&projectid=OIYJ88OJ3OPN3EA&collectionid=OIYJ88OJ3OPN3EA#/lesson-viewer
